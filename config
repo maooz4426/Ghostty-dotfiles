@@ -25,4 +25,5 @@ macos-icon-ghost-color = 010101
 macos-icon-screen-color = FF88FF
 macos-icon-frame = plastic
 
+font-feature = -dlig
 
